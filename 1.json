@@ -1,0 +1,36 @@
+{
+	"url": "page1.html",
+	"pageviewsPerDay": 512,
+	"assets": [
+		{
+			"filename": "a.js",
+			"payloadBytes": 23087,
+			"downloadDuration": 834,
+			"CpuExecutionDuration": 2541
+		},
+		{
+			"filename": "b.js",
+			"payloadBytes": 567890,
+			"downloadDuration": 7622,
+			"CpuExecutionDuration": 9541
+		},
+		{
+			"filename": "c.ss",
+			"payloadBytes": 141545,
+			"downloadDuration": 1134,
+			"CpuExecutionDuration": 2241
+		},
+		{
+			"filename": "e.pub",
+			"payloadBytes": 65478,
+			"downloadDuration": 3355,
+			"CpuExecutionDuration": 455
+		},
+		{
+			"filename": "g.if",
+			"payloadBytes": 2100504,
+			"downloadDuration": 15068,
+			"CpuExecutionDuration": 1511
+		}
+	]
+}

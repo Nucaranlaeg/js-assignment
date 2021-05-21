@@ -1,0 +1,66 @@
+{
+	"url": "page3.html",
+	"pageviewsPerDay": 33,
+	"assets": [
+		{
+			"filename": "a.js",
+			"payloadBytes": 23087,
+			"downloadDuration": 909,
+			"CpuExecutionDuration": 2743
+		},
+		{
+			"filename": "b.js",
+			"payloadBytes": 567890,
+			"downloadDuration": 7898,
+			"CpuExecutionDuration": 10554
+		},
+		{
+			"filename": "c.ss",
+			"payloadBytes": 141545,
+			"downloadDuration": 1245,
+			"CpuExecutionDuration": 2431
+		},
+		{
+			"filename": "d.ocx",
+			"payloadBytes": 8223087,
+			"downloadDuration": 24063,
+			"CpuExecutionDuration": 377
+		},
+		{
+			"filename": "e.pub",
+			"payloadBytes": 65478,
+			"downloadDuration": 3450,
+			"CpuExecutionDuration": 489
+		},
+		{
+			"filename": "f.ont",
+			"payloadBytes": 51230,
+			"downloadDuration": 1044,
+			"CpuExecutionDuration": 652
+		},
+		{
+			"filename": "g.if",
+			"payloadBytes": 2100504,
+			"downloadDuration": 15589,
+			"CpuExecutionDuration": 1771
+		},
+		{
+			"filename": "h.tml",
+			"payloadBytes": 1502,
+			"downloadDuration": 555,
+			"CpuExecutionDuration": 467
+		},
+		{
+			"filename": "i.mg",
+			"payloadBytes": 35364,
+			"downloadDuration": 2477,
+			"CpuExecutionDuration": 904
+		},
+		{
+			"filename": "j.pg",
+			"payloadBytes": 78987,
+			"downloadDuration": 5665,
+			"CpuExecutionDuration": 588
+		}
+	]
+}

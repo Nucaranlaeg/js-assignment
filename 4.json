@@ -1,0 +1,48 @@
+{
+	"url": "page4.html",
+	"pageviewsPerDay": 1223,
+	"assets": [
+		{
+			"filename": "a.js",
+			"payloadBytes": 23087,
+			"downloadDuration": 665,
+			"CpuExecutionDuration": 2111
+		},
+		{
+			"filename": "b.js",
+			"payloadBytes": 567890,
+			"downloadDuration": 6822,
+			"CpuExecutionDuration": 7441
+		},
+		{
+			"filename": "c.ss",
+			"payloadBytes": 141545,
+			"downloadDuration": 998,
+			"CpuExecutionDuration": 1741
+		},
+		{
+			"filename": "f.ont",
+			"payloadBytes": 51230,
+			"downloadDuration": 740,
+			"CpuExecutionDuration": 356
+		},
+		{
+			"filename": "h.tml",
+			"payloadBytes": 1502,
+			"downloadDuration": 279,
+			"CpuExecutionDuration": 315
+		},
+		{
+			"filename": "i.mg",
+			"payloadBytes": 35364,
+			"downloadDuration": 1988,
+			"CpuExecutionDuration": 580
+		},
+		{
+			"filename": "j.pg",
+			"payloadBytes": 78987,
+			"downloadDuration": 5002,
+			"CpuExecutionDuration": 501
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"url": "page2.html",
+	"pageviewsPerDay": 941,
+	"assets": [
+		{
+			"filename": "a.js",
+			"payloadBytes": 23087,
+			"downloadDuration": 893,
+			"CpuExecutionDuration": 2365
+		},
+		{
+			"filename": "e.pub",
+			"payloadBytes": 65478,
+			"downloadDuration": 3398,
+			"CpuExecutionDuration": 488
+		},
+		{
+			"filename": "f.ont",
+			"payloadBytes": 51230,
+			"downloadDuration": 1055,
+			"CpuExecutionDuration": 623
+		},
+		{
+			"filename": "g.if",
+			"payloadBytes": 2100504,
+			"downloadDuration": 15712,
+			"CpuExecutionDuration": 1311
+		},
+		{
+			"filename": "h.tml",
+			"payloadBytes": 1489,
+			"downloadDuration": 369,
+			"CpuExecutionDuration": 455
+		},
+		{
+			"filename": "i.mg",
+			"payloadBytes": 35364,
+			"downloadDuration": 2301,
+			"CpuExecutionDuration": 797
+		},
+		{
+			"filename": "j.pg",
+			"payloadBytes": 78987,
+			"downloadDuration": 5350,
+			"CpuExecutionDuration": 523
+		}
+	]
+}

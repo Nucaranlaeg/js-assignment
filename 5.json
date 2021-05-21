@@ -1,0 +1,18 @@
+{
+	"url": "page5.html",
+	"pageviewsPerDay": 426,
+	"assets": [
+		{
+			"filename": "a.js",
+			"payloadBytes": 23087,
+			"downloadDuration": 555,
+			"CpuExecutionDuration": 1741
+		},
+		{
+			"filename": "e.pub",
+			"payloadBytes": 65478,
+			"downloadDuration": 2941,
+			"CpuExecutionDuration": 379
+		}
+	]
+}
