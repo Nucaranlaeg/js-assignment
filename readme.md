@@ -1,6 +1,6 @@
 # Web Performance Engineer - Take-home Assignment
 
-A significant part of your job at SpeedSense will involve the agregation and manipulation of test data from various tools. This data is often very high-resolution and specific, which can make prioritization challenging for development teams. A high-level overview is often a helpful place to start diagnosing performance issues.
+A significant part of your job at SpeedSense will involve the aggregation and manipulation of test data from various tools. This data is often very high-resolution and specific, which can make prioritization challenging for development teams. A high-level overview is often a helpful place to start diagnosing performance issues.
 
 Suppose that SpeedSense is performing a site speed audit on a fictional website. The site consists of 5 URLs, each of which recieves a different share of the site's overall traffic. A test script has scanned each of these URLs to determine: 
 
@@ -48,3 +48,7 @@ Sort the output by `TotalTime`.
 Please provide at a minumum instructions on how to install dependencies and run the script via the command line; it does not need to be a standalone executable. (For example, `> node index.js` is sufficiently clear for running the script.) 
 
 Submissions will be judged on a machine running the latest public version of macOS.
+
+## Optional Bonus
+
+Visualize this data in an interesting and digestible way.
