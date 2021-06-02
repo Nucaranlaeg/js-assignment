@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<meta charset="UTF-8" http-equiv="Content-Type">
+<html>
+	<head>
+		<title>Speed Analysis Breakdown</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="output.js"></script>
+		<script src="aggregateoutput.js"></script>
+		<script src="view.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/chart.js@3.3.2/dist/chart.min.js"></script>
+	</head>
+	<body>
+		<div>
+			<table id="asset-table">
+				<tbody>
+					<tr>
+						<th colspan="6">By Asset</th>
+					</tr>
+				</tbody>
+			</table>
+			<div class="chart-wrapper"><canvas id="asset-chart" width="500" height="500"></canvas></div>
+		</div>
+		<div>
+			<table id="type-table">
+				<tbody>
+					<tr>
+						<th colspan="6">By Asset Type</th>
+					</tr>
+				</tbody>
+			</table>
+			<div class="chart-wrapper"><canvas id="type-chart" width="500" height="500"></canvas></div>
+		</div>
+	</body>
+</html>

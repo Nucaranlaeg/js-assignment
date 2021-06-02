@@ -1,0 +1,25 @@
+tbody tr {
+	font-size: x-large;
+}
+
+td div {
+	/* Might be a little short - only 4 addresses displayed is too few.
+	But I wanted to put it in and have it have some affect... */
+	max-height: 75px;
+	overflow-y: scroll;
+	scrollbar-width: thin;
+	padding: 0 5px;
+}
+
+table, .chart-wrapper {
+	display: inline-block;
+	vertical-align: top;
+}
+
+td:last-of-type {
+	width: 10px;
+}
+
+body > div + div {
+    margin-top: 40px;
+}

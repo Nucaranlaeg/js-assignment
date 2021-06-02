@@ -1,3 +1,25 @@
+# Running instructions:
+
+- Clone repo
+
+- Run `node main.js`
+
+- Output will be in "output.csv"
+
+# Extra running instructions:
+
+- Run `node expanded.js`
+
+- Will output "output.js" and "aggregateoutput.js", which are just csvs plus a few characters to make them functional js files.
+
+- Open "view-analysis.html" and view a quick-and-dirty overview of the data.
+
+Output is in js files rather than csvs so that I don't have to launch a webserver; csv handling is intentionally limited to only the output expected from this kind of input.  Were I to want to make this available to clients I'd want to use a npm package to ensure csvs are more rigorously handled (escaped quotes, especially), I would want to use csvs properly, and I'd spend more time styling both the tables and the chart.
+
+The aggregate output is by file type - figured that would be the most helpful reanalysis of the data given.
+
+# Below is the original task
+
 # Web Performance Engineer - Take-home Assignment
 
 A significant part of your job at SpeedSense will involve the aggregation and manipulation of test data from various tools. This data is often very high-resolution and specific, which can make prioritization challenging for development teams. A high-level overview is often a helpful place to start diagnosing performance issues.
